@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 2rem;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+a {
+  color: #47b0f7;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #00b0ff;
+}
